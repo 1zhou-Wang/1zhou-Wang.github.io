@@ -35,7 +35,7 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        I'm a Master of Philosophy student at HKUSTGZ and a proud member of the HKUSTGZ NLP Group, where I delve into the world of large language models and natural language processing. My academic journey is driven by a passion for exploring and pushing the boundaries of AI research.
+        I'm a Master of Philosophy student at HKUSTGZ and a member of the HKUSTGZ NLP Group, where I delve into the world of large language models and natural language processing. My academic journey is driven by a passion for exploring and pushing the boundaries of AI research.
 
         My work focuses on overcoming challenges in LLMs, including hallucination mitigation, developing role-play frameworks, and harnessing reinforcement learning to enhance reasoning capabilities. I'm also keen on innovative applications, such as integrating LLMs into video game interactions, which open new horizons for interactive digital experiences.
 
