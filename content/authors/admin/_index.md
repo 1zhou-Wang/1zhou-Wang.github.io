@@ -144,4 +144,4 @@ I'm currently a Master of Philosophy student at [The Hong Kong University of Sci
 
 My research focuses on Hallucination Mitigation of Multi-modal Large Language Model (MLLM), Role-Play LLM, LLM Post-Training and Reinforcement Learning for LLM reasoning. I am also very interested in applying LLMs to video-game interactions. 
 
-Besides, Yizhou is a big fan of [Fabulous Beasts (有兽焉)](https://manga.bilibili.com/detail/mc29329) and [Hazbin Hotel (地狱客栈)](https://hazbinhotel.com/).
+Besides, I'm a big fan of [Fabulous Beasts (有兽焉)](https://manga.bilibili.com/detail/mc29329) and [Hazbin Hotel (地狱客栈)](https://hazbinhotel.com/). Wish they could be updating more frequently!
