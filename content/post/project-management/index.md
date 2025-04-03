@@ -9,12 +9,12 @@ tags:
   - Hugo Blox
   - Markdown
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
+  caption: 'Demo View'
 ---
 
-Easily manage your projects - create ideation mind maps, Gantt charts, todo lists, and more!
 
-## Ideation
+
+<!-- ## Ideation
 
 Hugo Blox supports a Markdown extension for mindmaps.
 
@@ -92,4 +92,4 @@ renders as
   - [x] Write diagram example
 - [ ] Do something else
 
-## Did you find this page helpful? Consider sharing it 🙌
+## Did you find this page helpful? Consider sharing it 🙌 -->
