@@ -1,8 +1,8 @@
 ---
 title: "Look Twice Before You Answer: Memory-Space Visual Retracing for Hallucination Mitigation in Multimodal Large Language Models"
 authors:
-- Xin Zou
-- Yizhou Wang
+- Xin Zou*
+- Yizhou Wang*
 - Yibo Yan
 - Sirui Huang
 - Kening Zheng
@@ -11,8 +11,8 @@ authors:
 - Xuming Hu
 
 author_notes:
-- "Xin Zou"
-- "Yizhou Wang"
+- "Equal Contribution"
+- "Equal Contribution"
 
 date: "2024-10-03T00:00:00Z"
 doi: ""
@@ -40,11 +40,11 @@ tags:
 featured: true
 
 links:
-- name: Custom Link
-  url: http://example.org
+# - name: Custom Link
+#   url: http://example.org
 url_pdf: 'https://arxiv.org/pdf/2410.03577'
 url_code: 'https://github.com/1zhou-Wang/MemVR'
-url_dataset: 'https://github.com/1zhou-Wang/MemVR'
+# url_dataset: 'https://github.com/1zhou-Wang/MemVR'
 # url_poster: '#'
 url_project: 'https://github.com/1zhou-Wang/MemVR'
 # url_slides: ''
@@ -74,10 +74,10 @@ projects:
 slides: example
 ---
 
-This work is driven by the results in my [previous paper](/publication/conference-paper/) on LLMs.
+This work is supported by [RBM](https://www.hkust-gz.edu.cn/academics/teaching-and-learning-innovation/red-bird-mphil-program/) of HKUSTGZ.
 
-{{% callout note %}}
+<!-- {{% callout note %}}
 Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
+{{% /callout %}} -->
 
 Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
