@@ -1,7 +1,7 @@
 ---
-title: ✅ Manage your projects
-summary: Easily manage your projects - create ideation mind maps, Gantt charts, todo lists, and more!
-date: 2023-10-23
+title: 🎉 We won ICRA Sim2Real Challenge 3rd in Online Simulaltion Stage!
+summary: ICRA 2024 Sim2Reach Challenge 3rd Prize
+date: 2024-4-23
 authors:
   - admin
 tags:
