@@ -1,7 +1,8 @@
 ---
 title: 🎉 We won ICRA Sim2Real Challenge 3rd in Online Simulaltion Stage!
 summary: ICRA 2024 Sim2Reach Challenge 3rd Prize
-date: 2024-4-23
+date: 2024-04-23
+
 authors:
   - admin
 tags:
