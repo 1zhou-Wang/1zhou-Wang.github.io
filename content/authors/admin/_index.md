@@ -25,12 +25,12 @@ organizations:
 profiles:
   - icon: at-symbol
     url: 'ywang893@connect.hkust-gz.edu.cn'
-    label: E-mail Me
+    # label: E-mail Me
 
   - icon: brands/github
     url: 'https://github.com/1zhou-Wang'
 
- - icon: academicons/google-scholar
+  - icon: academicons/google-scholar
    url: 'https://scholar.google.com/citations?user=TF_zePgAAAAJ&hl=en'
 
 #  - icon: brands/linkedin
