@@ -1,7 +1,7 @@
 ---
-title: 📈 Communicate your results effectively with the best data visualizations
-summary: Use popular tools such as Plotly, Mermaid, and data frames.
-date: 2023-10-25
+title: 🎉 We've been selected for the featured RBM Project RoadShow!
+summary: Come and check it out at 12, April.
+date: 2025-03-23
 authors:
   - admin
 tags:
@@ -12,7 +12,9 @@ image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
 ---
 
-Hugo Blox is designed to give technical content creators a seamless experience. You can focus on the content and Hugo Blox handles the rest.
+
+
+<!-- Hugo Blox is designed to give technical content creators a seamless experience. You can focus on the content and Hugo Blox handles the rest.
 
 Use popular tools such as Plotly, Mermaid, and data frames.
 
@@ -154,4 +156,4 @@ renders as
 
 {{< table path="results.csv" header="true" caption="Table 1: My results" >}}
 
-## Did you find this page helpful? Consider sharing it 🙌
+## Did you find this page helpful? Consider sharing it 🙌 -->
