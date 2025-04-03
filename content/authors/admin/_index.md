@@ -13,7 +13,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: MPhil Student
+role: M.Phil Student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -34,15 +34,15 @@ profiles:
     url: https://github.com/1zhou-Wang
 #  - icon: brands/linkedin
 #    url: https://www.linkedin.com/
-#  - icon: academicons/google-scholar
-#    url: https://scholar.google.com/
+ - icon: academicons/google-scholar
+   url: https://scholar.google.com/
 #  - icon: academicons/orcid
 #    url: https://orcid.org/
 
 interests:
   - Hallucination Mitigation in MLLM
-  - LLM-Agent
-  - Role-Play LLM
+  - LLM Post-Training
+  - RL for LLM Reasoning
   - Graph RAG
 
 education:
@@ -137,6 +137,8 @@ awards:
 
 ## About Me
 
-I'm currently a Master of Philosophy student at [The Hong Kong University of Science and Technology, Guangzhou](https://www.hkust-gz.edu.cn/), supervised by [Prof. Jie SONG](https://ait.ethz.ch/people/song) and [Prof. Xuming HU](https://xuminghu.github.io/). I received my Bachelor Degree of Engineering at [Southwest Jiaotong University](https://www.swjtu.edu.cn/xxgk2.htm) and [University of Leeds](https://www.leeds.ac.uk/), major in Electronic and Electrical Engineering. My research focuses on Hallucination Mitigation of Multi-modal Large Language Model (MLLM), Role-Play LLM, LLM Post-Training and Reinforcement Learning for LLM reasoning. I am also very interested in applying LLMs to video-game interactions. 
+I'm currently a Master of Philosophy student at [The Hong Kong University of Science and Technology, Guangzhou](https://www.hkust-gz.edu.cn/), supervised by [Prof. Jie SONG](https://ait.ethz.ch/people/song) and [Prof. Xuming HU](https://xuminghu.github.io/). I received my Bachelor Degree of Engineering at [Southwest Jiaotong University](https://www.swjtu.edu.cn/xxgk2.htm) and [University of Leeds](https://www.leeds.ac.uk/), major in Electronic and Electrical Engineering. 
+
+My research focuses on Hallucination Mitigation of Multi-modal Large Language Model (MLLM), Role-Play LLM, LLM Post-Training and Reinforcement Learning for LLM reasoning. I am also very interested in applying LLMs to video-game interactions. 
 
 Besides, Yizhou is a big fan of [Fabulous Beasts (有兽焉)](https://manga.bilibili.com/detail/mc29329) and [Hazbin Hotel (地狱客栈)](https://hazbinhotel.com/).
