@@ -13,7 +13,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: M.Phil Student
+role: M.Phil, HKUSTGZ
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -25,7 +25,7 @@ organizations:
 profiles:
   - icon: at-symbol
     url: 'ywang893@connect.hkust-gz.edu.cn'
-    # label: E-mail Me
+    label: E-mail Me
 
   - icon: brands/github
     url: 'https://github.com/1zhou-Wang'
