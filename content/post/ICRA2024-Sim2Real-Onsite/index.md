@@ -1,6 +1,6 @@
 ---
 title: 🎉 We won ICRA Sim2Real Challenge 2nd Prize in onsite competition!
-summary: Take full control of your personal brand and privacy by migrating away from the big tech platforms!
+summary: Thanks for all team members' contribution to the project!
 date: 2023-05-24
 
 # Featured image
