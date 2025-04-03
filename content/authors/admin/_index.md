@@ -31,7 +31,7 @@ profiles:
     url: 'https://github.com/1zhou-Wang'
 
   - icon: academicons/google-scholar
-   url: 'https://scholar.google.com/citations?user=TF_zePgAAAAJ&hl=en'
+    url: 'https://scholar.google.com/citations?user=TF_zePgAAAAJ&hl=en'
 
 #  - icon: brands/linkedin
 #    url: https://www.linkedin.com/
