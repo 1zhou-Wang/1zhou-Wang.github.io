@@ -3,6 +3,12 @@ title: "Look Twice Before You Answer: Memory-Space Visual Retracing for Hallucin
 authors:
 - Xin Zou
 - Yizhou Wang
+- Yibo Yan
+- Sirui Huang
+- Kening Zheng
+- Junkai Chen
+- Chang Tang
+- Xuming Hu
 
 author_notes:
 - "Xin Zou"
