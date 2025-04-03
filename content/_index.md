@@ -35,11 +35,11 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+        I'm a Master of Philosophy student at HKUSTGZ and a proud member of the HKUSTGZ NLP Group, where I delve into the world of large language models and natural language processing. My academic journey is driven by a passion for exploring and pushing the boundaries of AI research.
 
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-        
-        Please reach out to collaborate 😃
+        My work focuses on overcoming challenges in LLMs, including hallucination mitigation, developing role-play frameworks, and harnessing reinforcement learning to enhance reasoning capabilities. I'm also keen on innovative applications, such as integrating LLMs into video game interactions, which open new horizons for interactive digital experiences.
+
+        I'm eager to collaborate with forward-thinking companies and research teams that share my enthusiasm for groundbreaking AI advancements. If you're interested in discussing potential job opportunities or collaborative projects, please feel free to reach out.
     design:
       columns: '1'
   - block: collection
