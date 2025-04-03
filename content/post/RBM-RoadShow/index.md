@@ -9,7 +9,7 @@ tags:
   - Hugo Blox
   - Markdown
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
+  caption: 'RBM Group 48'
 ---
 
 See you at HKUSTGZ!
