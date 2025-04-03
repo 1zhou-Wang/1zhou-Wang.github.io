@@ -18,7 +18,7 @@ role: M.Phil Student
 # Organizations/Affiliations to display in Biography blox
 organizations:
   - name: HKUSTGZ
-    url: https://www.hkust-gz.edu.cn/
+    url: 'https://www.hkust-gz.edu.cn/'
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
