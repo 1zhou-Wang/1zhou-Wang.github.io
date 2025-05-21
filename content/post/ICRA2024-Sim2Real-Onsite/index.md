@@ -1,7 +1,7 @@
 ---
 title: 🎉 We won ICRA Sim2Real Challenge 2nd Prize in onsite competition!
 summary: Thanks for all team members' contribution to the project!
-date: 2023-05-24
+date: 2024-05-24
 
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
