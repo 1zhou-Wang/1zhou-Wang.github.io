@@ -140,7 +140,7 @@ awards:
 
 ## About Me
 
-I'm currently a Master of Philosophy student at [The Hong Kong University of Science and Technology, Guangzhou](https://www.hkust-gz.edu.cn/), supervised by [Prof. Jie SONG](https://ait.ethz.ch/people/song) and [Prof. Xuming HU](https://xuminghu.github.io/). I received my Bachelor Degree of Engineering at [Southwest Jiaotong University](https://www.swjtu.edu.cn/xxgk2.htm) and [University of Leeds](https://www.leeds.ac.uk/), major in Electronic and Electrical Engineering. 
+I'm currently a Master of Philosophy graduate at [The Hong Kong University of Science and Technology, Guangzhou](https://www.hkust-gz.edu.cn/), supervised by [Prof. Jie SONG](https://ait.ethz.ch/people/song). I received my Bachelor Degree of Engineering at [Southwest Jiaotong University](https://www.swjtu.edu.cn/xxgk2.htm) and [University of Leeds](https://www.leeds.ac.uk/), major in Electronic and Electrical Engineering. 
 
 My research focuses on Hallucination Mitigation of Multi-modal Large Language Model (MLLM), Role-Play LLM, LLM Post-Training and Reinforcement Learning for LLM reasoning. I am also very interested in applying LLMs to video-game interactions. 
 
